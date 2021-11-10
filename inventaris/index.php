@@ -3,7 +3,7 @@ header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: *");
 header("Content-type: application/json");
 //koneksi database
-include "../database.php";
+//include "../database.php";
 //include "../jwt.php";
 
 // $req_header = apache_request_headers();
